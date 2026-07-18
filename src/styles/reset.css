@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+    color: #000;
+    font-family: Helvetica, sans-serif;
+    text-decoration: none;
+    list-style: none;
+}
+
+html, body {
+    height: 100%;
+}
+
+body *{
+     display: block
+}
